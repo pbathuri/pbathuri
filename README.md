@@ -1,15 +1,32 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  Profile README — pbathuri                                              -->
+<!--  Assets served from github.com/pbathuri/Map_Projects_MAC/Assets/        -->
+<!--  Auto-generated SVGs: Platane/snk + lowlighter/metrics (.github/wfs)    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<!-- ── Hero banner (replace profile-hero.png with profile-hero.gif once the Gemini asset is delivered) -->
 <a href="https://pradyotbathuri.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FFA657&center=true&vCenter=true&width=760&lines=Pradyot+Bathuri+%E2%80%94+Quantitative+Researcher+%2B+Builder;Cache+behaviour%2C+kernels%2C+and+foundation+models+for+finance;HPC+%E2%80%A2+Low-latency+systems+%E2%80%A2+Agentic+tooling;Indiana+University+%E2%80%A2+Luddy+School;Curiosity+is+the+unit.+Ships+%3E+drafts." alt="header" />
+  <img src="https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/profile-hero.png" alt="Pradyot Bathuri — quantitative research · HPC systems · shipping LLM tools" width="100%" />
+</a>
+
+<br/><br/>
+
+<!-- ── Typing headline ─────────────────────────────────────────────────── -->
+<a href="https://pradyotbathuri.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FFA657&center=true&vCenter=true&width=760&lines=Pradyot+Bathuri+%E2%80%94+Quantitative+Researcher+%2B+Builder;Cache+behaviour%2C+kernels%2C+and+foundation+models+for+finance;HPC+%E2%80%A2+Low-latency+systems+%E2%80%A2+Agentic+tooling;Indiana+University+%E2%80%A2+Luddy+School;Curiosity+is+the+unit.+Ships+%3E+drafts." alt="rotating headline" />
 </a>
 
 <br/>
 
-<a href="https://pradyotbathuri.com/"><img src="https://img.shields.io/badge/Portfolio-pradyotbathuri.com-FFA657?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="mailto:taaffeite.aart@gmail.com"><img src="https://img.shields.io/badge/Email-contact-58A6FF?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://github.com/pbathuri"><img src="https://img.shields.io/github/followers/pbathuri?style=for-the-badge&labelColor=0D1117&color=8B949E&label=followers" /></a>
-<a href="https://github.com/pbathuri?tab=repositories"><img src="https://img.shields.io/badge/repos-public-58A6FF?style=for-the-badge&labelColor=0D1117" /></a>
+<!-- ── Connect row ─────────────────────────────────────────────────────── -->
+<a href="https://pradyotbathuri.com/"><img src="https://img.shields.io/badge/Portfolio-pradyotbathuri.com-FFA657?style=for-the-badge&labelColor=0D1117&logo=firefox&logoColor=FFA657" /></a>
+<a href="mailto:taaffeite.aart@gmail.com"><img src="https://img.shields.io/badge/Email-contact-58A6FF?style=for-the-badge&labelColor=0D1117&logo=protonmail&logoColor=58A6FF" /></a>
+<a href="https://linkedin.com/in/pradyotbathuri"><img src="https://img.shields.io/badge/LinkedIn-profile-58A6FF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=58A6FF" /></a>
+<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-profile-E6EDF3?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" /></a>
+<a href="https://github.com/pbathuri?tab=repositories"><img src="https://img.shields.io/badge/repos-public-58A6FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=58A6FF" /></a>
+<a href="https://github.com/pbathuri"><img src="https://img.shields.io/github/followers/pbathuri?style=for-the-badge&labelColor=0D1117&color=8B949E&logo=github&logoColor=8B949E&label=followers" /></a>
 
 <br/>
 
@@ -25,7 +42,7 @@ I'm a **quantitative researcher and systems builder** working at the intersectio
 
 I'm drawn to problems where the maths, the hardware, and the market all have a vote. I build a lot. I read a lot. I ship the things I read about.
 
-> Currently a graduate researcher at **Indiana University — Luddy School of Informatics, Computing and Engineering**, focused on cache-aware numerical methods for quantitative finance.
+> Currently a researcher at **Indiana University — Luddy School of Informatics, Computing and Engineering**, focused on cache-aware numerical methods for quantitative finance.
 
 ---
 
@@ -56,11 +73,32 @@ Codebase intelligence, structured retrieval, and the boring scaffolding that mak
 
 ---
 
+### Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cuda,rust,ts,go,swift,r,bash&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nextjs,react,nodejs,docker,linux,git,vscode&perline=10" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PAPI-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
+<img src="https://img.shields.io/badge/OpenMP-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
+<img src="https://img.shields.io/badge/MPI-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
+<img src="https://img.shields.io/badge/Slurm-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
+<img src="https://img.shields.io/badge/QLib-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&labelColor=0D1117&logo=ollama&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&labelColor=0D1117&logo=huggingface&logoColor=FFA657" />
+</p>
+
+---
+
 ### Timeline — how I got here
 
 ```mermaid
 timeline
-    title From curiosity to shipping — 2025 → 2026
+    title From curiosity to shipping — 2019 → 2026
     2019 : Linear Algebra foundations (MIT 18.06 / EE16A)
          : First taste of numerical thinking
     2025 Q4 : Paul Wilmott quant finance practice
@@ -70,11 +108,13 @@ timeline
     2026 Q1 : LABLAB hackathons (AI + startup tracks)
             : NCAA bracket analytics (Kory_The_Cat-NCAA)
             : Robot simulation environment
+            : CPS Digital Design (IU E222) — embedded + FPGA
     2026 Q1–Q2 : Research thread opens — cache heuristics in finance
                : Claude Hackathon — WHO-aligned telehealth
                : Clap / OpsPilot — agentic workflow automation
                : Personal site rebuild (Next.js)
-    2026 Q2 : finance-cache-hpc — EPYC + PAPI study
+               : AI Ethics Coach — privacy-first ChatGPT companion
+    2026 Q2 : finance-cache-hpc — EPYC + PAPI study (28× · 1,657× · 500×)
             : ResumeForge — local-first explainable resume AI
             : entrepreneur-persona — pitch coach for MIT/Harvard/Kelley comps
             : DeskFlow Native — cross-platform workflow manager
@@ -110,8 +150,8 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <td><a href="https://github.com/pbathuri/ResumeForge">ResumeForge</a></td>
 <td>Local-first explainable resume tailoring · LangGraph · LaTeX · Overleaf sync</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Claude_Hackathon">Claude_Hackathon</a></td><td>WHO-aligned telehealth intake with a self-evolving medical knowledge graph</td></tr>
-<tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice on Streamlit</td></tr>
-<tr><td><a href="https://github.com/pbathuri/Photo_Recognizer_Image_Caption_Generator_Wikipedia">Photo_Recognizer</a></td><td>Image recognition + caption generation + Wikipedia lookup</td></tr>
+<tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice — Next.js + Streamlit</td></tr>
+<tr><td><a href="https://github.com/pbathuri/ai-ethics-coach">ai-ethics-coach</a></td><td>Privacy-first Chrome extension — prompt coach, response auditor, energy awareness</td></tr>
 
 <tr><td rowspan="2"><b>🎯 Entrepreneurship</b></td>
 <td><a href="https://github.com/pbathuri/entrepreneur-persona-skill">entrepreneur-persona-skill</a></td>
@@ -120,49 +160,36 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 <tr><td rowspan="2"><b>🏆 Hackathons & competitions</b></td>
 <td><a href="https://github.com/pbathuri/LABLAB-Hackathon">LABLAB-Hackathon</a></td>
-<td>LabLab hackathon submission</td></tr>
-<tr><td><a href="https://github.com/pbathuri/Kory_The_Cat-NCAA">Kory_The_Cat-NCAA</a></td><td>NCAA bracket modelling / sports analytics</td></tr>
+<td>Captain Whiskers — AI trading agent</td></tr>
+<tr><td><a href="https://github.com/pbathuri/Kory_The_Cat-NCAA">Kory_The_Cat-NCAA</a></td><td>NCAA bracket modelling · tiered ensemble + Hungarian assignment</td></tr>
 
-<tr><td rowspan="2"><b>🖥️ Desktop & productivity</b></td>
+<tr><td rowspan="2"><b>🖥️ Systems & embedded</b></td>
 <td><a href="https://github.com/pbathuri/deskflow-native">deskflow-native</a> 🔒</td>
 <td>Cross-platform (macOS + Windows) workflow manager — named profiles, non-destructive shortcuts</td></tr>
-<tr><td><a href="https://github.com/pbathuri/Clap">Clap</a> / <a href="https://github.com/pbathuri/Clap_OpsPilot">Clap_OpsPilot</a> 🔒</td><td>Agentic operations automation</td></tr>
+<tr><td><a href="https://github.com/pbathuri/CPS-Digital-Design">CPS-Digital-Design</a></td><td>IU E222 coursework — Raspberry Pi sensors, MQTT, SystemVerilog FPGA</td></tr>
 
 </table>
 
-<sub>🔒 = private, available on request</sub>
+<sub>🔒 = private, available on request · full index → <a href="https://github.com/pbathuri/Map_Projects_MAC">Map_Projects_MAC</a></sub>
 
 ---
 
-### Stack
+### Activity & metrics
 
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=58A6FF" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFA657" />
-<img src="https://img.shields.io/badge/QLib-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
-<img src="https://img.shields.io/badge/PAPI-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/OpenMP-0D1117?style=for-the-badge&labelColor=0D1117&color=8B949E" />
-<img src="https://img.shields.io/badge/MPI-0D1117?style=for-the-badge&labelColor=0D1117&color=8B949E" />
-<img src="https://img.shields.io/badge/Slurm-0D1117?style=for-the-badge&labelColor=0D1117&color=8B949E" />
-</p>
+<!-- ── Lowlighter metrics — auto-generated by .github/workflows/metrics.yml ── -->
+<div align="center">
 
----
+<img src="./metrics.svg" alt="GitHub metrics — activity, community, repos, languages, habits" width="100%" />
 
-### Activity
+<br/>
 
+<img src="./metrics.plugin.isocalendar.svg" alt="Isometric contribution calendar" width="85%" />
+
+</div>
+
+<br/>
+
+<!-- ── Stats triptych ───────────────────────────────────────────────────── -->
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pbathuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA657&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="160" />
@@ -172,9 +199,18 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbathuri&hide_border=true&background=0D1117&stroke=0D1117&ring=FFA657&fire=FFA657&currStreakLabel=FFA657&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="160" />
 
+</div>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pbathuri&bg_color=0D1117&color=FFA657&line=58A6FF&point=FFA657&area=true&hide_border=true&custom_title=Contribution%20graph" alt="contribution graph" />
+<!-- ── Snake activity graph — auto-generated by .github/workflows/snake.yml ── -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pbathuri/pbathuri/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pbathuri&bg_color=0D1117&color=FFA657&line=58A6FF&point=FFA657&area=true&hide_border=true&custom_title=Contribution%20graph%20%E2%80%94%20commits%20over%20time" alt="contribution graph" />
 
 </div>
 
@@ -199,5 +235,7 @@ I think the best researchers are the ones who can also build, and the best build
 ---
 
 <div align="center">
-<sub>Browse the full map of what I'm working on → <a href="https://github.com/pbathuri/Map_Projects_MAC">Map_Projects_MAC</a></sub>
+
+<sub>Browse the full map → <a href="https://github.com/pbathuri/Map_Projects_MAC"><b>Map_Projects_MAC</b></a> · Assets → <a href="https://github.com/pbathuri/Map_Projects_MAC/tree/main/Assets"><b>/Assets</b></a></sub>
+
 </div>
