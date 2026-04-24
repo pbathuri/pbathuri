@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  Profile README — pbathuri                                              -->
+<!--  Profile README - pbathuri                                              -->
 <!--  Assets served from github.com/pbathuri/Map_Projects_MAC/Assets/        -->
 <!--  Auto-generated SVGs: Platane/snk + lowlighter/metrics (.github/wfs)    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -8,7 +8,7 @@
 
 <!-- ── Hero banner (animated GIF, static PNG fallback via object tag) -->
 <a href="https://pradyotbathuri.com/">
-  <img src="https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/profile-hero.gif" alt="Pradyot Bathuri — quantitative research · HPC systems · shipping LLM tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/profile-hero.gif" alt="Pradyot Bathuri - quantitative research · HPC systems · shipping LLM tools" width="100%" />
 </a>
 
 <br/><br/>
@@ -38,11 +38,11 @@
 
 ### About
 
-I'm a **quantitative researcher and systems builder** working at the intersection of **high-performance computing, capital markets, and machine learning**. My focus is on what actually moves the needle at low-latency scale — cache behaviour of financial kernels, foundation models trained on market data, and the tooling layer around modern research workflows.
+I'm a **quantitative researcher and systems builder** working at the intersection of **high-performance computing, capital markets, and machine learning**. My focus is on what actually moves the needle at low-latency scale - cache behaviour of financial kernels, foundation models trained on market data, and the tooling layer around modern research workflows.
 
 I'm drawn to problems where the maths, the hardware, and the market all have a vote. I build a lot. I read a lot. I ship the things I read about.
 
-> Currently a researcher at **Indiana University — Luddy School of Informatics, Computing and Engineering**, focused on cache-aware numerical methods for quantitative finance.
+> Currently a researcher at **Indiana University - Luddy School of Informatics, Computing and Engineering**, focused on cache-aware numerical methods for quantitative finance.
 
 ---
 
@@ -65,7 +65,7 @@ Transformer architectures on financial time series, compression-first training, 
 <td width="33%" valign="top">
 
 #### 🛠️ Agentic systems & tooling
-Codebase intelligence, structured retrieval, and the boring scaffolding that makes research repeatable — dataset ingestion, evaluation harnesses, reproducibility.
+Codebase intelligence, structured retrieval, and the boring scaffolding that makes research repeatable - dataset ingestion, evaluation harnesses, reproducibility.
 
 </td>
 </tr>
@@ -94,11 +94,11 @@ Codebase intelligence, structured retrieval, and the boring scaffolding that mak
 
 ---
 
-### Timeline — how I got here
+### Timeline - how I got here
 
 ```mermaid
 timeline
-    title From curiosity to shipping — 2019 → 2026
+    title From curiosity to shipping - 2019 → 2026
     2019 : Linear Algebra foundations (MIT 18.06 / EE16A)
          : First taste of numerical thinking
     2025 Q4 : Paul Wilmott quant finance practice
@@ -108,18 +108,18 @@ timeline
     2026 Q1 : LABLAB hackathons (AI + startup tracks)
             : NCAA bracket analytics (Kory_The_Cat-NCAA)
             : Robot simulation environment
-            : CPS Digital Design (IU E222) — embedded + FPGA
-    2026 Q1–Q2 : Research thread opens — cache heuristics in finance
-               : Claude Hackathon — WHO-aligned telehealth
-               : Clap / OpsPilot — agentic workflow automation
+            : CPS Digital Design (IU E222) - embedded + FPGA
+    2026 Q1–Q2 : Research thread opens - cache heuristics in finance
+               : Claude Hackathon - WHO-aligned telehealth
+               : Clap / OpsPilot - agentic workflow automation
                : Personal site rebuild (Next.js)
-               : AI Ethics Coach — privacy-first ChatGPT companion
-    2026 Q2 : finance-cache-hpc — EPYC + PAPI study (28× · 1,657× · 500×)
-            : ResumeForge — local-first explainable resume AI
-            : entrepreneur-persona — pitch coach for MIT/Harvard/Kelley comps
-            : DeskFlow Native — cross-platform workflow manager
-            : Abstraction Dictionary — book project kickoff
-            : Map_Projects_MAC — portfolio index goes live
+               : AI Ethics Coach - privacy-first ChatGPT companion
+    2026 Q2 : finance-cache-hpc - EPYC + PAPI study (28× · 1,657× · 500×)
+            : ResumeForge - local-first explainable resume AI
+            : entrepreneur-persona - pitch coach for MIT/Harvard/Kelley comps
+            : DeskFlow Native - cross-platform workflow manager
+            : Abstraction Dictionary - book project kickoff
+            : Map_Projects_MAC - portfolio index goes live
 ```
 
 The through-line: **learn by building, measure before tuning, ship the thing**. Every entry on that line is a public (or private-on-request) repo you can open today.
@@ -128,10 +128,10 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 ### 🔬 Currently working on
 
-- [`finance-cache-hpc`](https://github.com/pbathuri/finance-cache-hpc) — L1 cache characterisation of four quant kernels on AMD EPYC using PAPI
-- [`Research_HPC_QFinance_Cache`](https://github.com/pbathuri/Research_HPC_QFinance_Cache) — the broader research thread this sits inside
-- [`QuantumMCL-Spring26`](https://github.com/pbathuri/QuantumMCL-Spring26) — *(private)* heuristic cache mechanisms for finance workflows
-- [`ResumeForge`](https://github.com/pbathuri/ResumeForge) — local-first, explainable resume tailoring with LaTeX + Overleaf sync
+- [`finance-cache-hpc`](https://github.com/pbathuri/finance-cache-hpc) - L1 cache characterisation of four quant kernels on AMD EPYC using PAPI
+- [`Research_HPC_QFinance_Cache`](https://github.com/pbathuri/Research_HPC_QFinance_Cache) - the broader research thread this sits inside
+- [`QuantumMCL-Spring26`](https://github.com/pbathuri/QuantumMCL-Spring26) - *(private)* heuristic cache mechanisms for finance workflows
+- [`ResumeForge`](https://github.com/pbathuri/ResumeForge) - local-first, explainable resume tailoring with LaTeX + Overleaf sync
 
 ---
 
@@ -144,29 +144,29 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <td><a href="https://github.com/pbathuri/finance-cache-hpc">finance-cache-hpc</a></td>
 <td>Empirical L1 cache study of Cholesky · Monte Carlo · GARCH · GEMM on EPYC · PAPI counters</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Research_HPC_QFinance_Cache">Research_HPC_QFinance_Cache</a></td><td>Research notes & experiments on improving cache behaviour in finance workflows</td></tr>
-<tr><td><a href="https://github.com/pbathuri/Quantitative-Modeling_Practice">Quantitative-Modeling_Practice</a></td><td>Wilmott-style quant modelling — binomial pricing, risk-neutral valuation</td></tr>
+<tr><td><a href="https://github.com/pbathuri/Quantitative-Modeling_Practice">Quantitative-Modeling_Practice</a></td><td>Wilmott-style quant modelling - binomial pricing, risk-neutral valuation</td></tr>
 
 <tr><td rowspan="4"><b>🧠 ML systems</b></td>
 <td><a href="https://github.com/pbathuri/ResumeForge">ResumeForge</a></td>
 <td>Local-first explainable resume tailoring · LangGraph · LaTeX · Overleaf sync</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Claude_Hackathon">Claude_Hackathon</a></td><td>WHO-aligned telehealth intake with a self-evolving medical knowledge graph</td></tr>
-<tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice — Next.js + Streamlit</td></tr>
-<tr><td><a href="https://github.com/pbathuri/ai-ethics-coach">ai-ethics-coach</a></td><td>Privacy-first Chrome extension — prompt coach, response auditor, energy awareness</td></tr>
+<tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice - Next.js + Streamlit</td></tr>
+<tr><td><a href="https://github.com/pbathuri/ai-ethics-coach">ai-ethics-coach</a></td><td>Privacy-first Chrome extension - prompt coach, response auditor, energy awareness</td></tr>
 
 <tr><td rowspan="2"><b>🎯 Entrepreneurship</b></td>
 <td><a href="https://github.com/pbathuri/entrepreneur-persona-skill">entrepreneur-persona-skill</a></td>
-<td>AI pitch coach — 75+ judge Qs, 8 verticals, Clapp-style proposals, 12-slide decks</td></tr>
-<tr><td><a href="https://github.com/pbathuri/entrepreneur-persona-llm">entrepreneur-persona-llm</a></td><td>Model-agnostic version — ChatGPT / Gemini / Cursor / Copilot / Claude</td></tr>
+<td>AI pitch coach - 75+ judge Qs, 8 verticals, Clapp-style proposals, 12-slide decks</td></tr>
+<tr><td><a href="https://github.com/pbathuri/entrepreneur-persona-llm">entrepreneur-persona-llm</a></td><td>Model-agnostic version - ChatGPT / Gemini / Cursor / Copilot / Claude</td></tr>
 
 <tr><td rowspan="2"><b>🏆 Hackathons & competitions</b></td>
 <td><a href="https://github.com/pbathuri/LABLAB-Hackathon">LABLAB-Hackathon</a></td>
-<td>Captain Whiskers — AI trading agent</td></tr>
+<td>Captain Whiskers - AI trading agent</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Kory_The_Cat-NCAA">Kory_The_Cat-NCAA</a></td><td>NCAA bracket modelling · tiered ensemble + Hungarian assignment</td></tr>
 
 <tr><td rowspan="2"><b>🖥️ Systems & embedded</b></td>
 <td><a href="https://github.com/pbathuri/deskflow-native">deskflow-native</a> 🔒</td>
-<td>Cross-platform (macOS + Windows) workflow manager — named profiles, non-destructive shortcuts</td></tr>
-<tr><td><a href="https://github.com/pbathuri/CPS-Digital-Design">CPS-Digital-Design</a></td><td>IU E222 coursework — Raspberry Pi sensors, MQTT, SystemVerilog FPGA</td></tr>
+<td>Cross-platform (macOS + Windows) workflow manager - named profiles, non-destructive shortcuts</td></tr>
+<tr><td><a href="https://github.com/pbathuri/CPS-Digital-Design">CPS-Digital-Design</a></td><td>IU E222 coursework - Raspberry Pi sensors, MQTT, SystemVerilog FPGA</td></tr>
 
 </table>
 
@@ -176,10 +176,10 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 ### Activity & metrics
 
-<!-- ── Lowlighter metrics — auto-generated by .github/workflows/metrics.yml ── -->
+<!-- ── Lowlighter metrics - auto-generated by .github/workflows/metrics.yml ── -->
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub metrics — activity, community, repos, languages, habits" width="100%" />
+<img src="./metrics.svg" alt="GitHub metrics - activity, community, repos, languages, habits" width="100%" />
 
 <br/>
 
@@ -203,7 +203,7 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 <br/>
 
-<!-- ── Snake activity graph — auto-generated by .github/workflows/snake.yml ── -->
+<!-- ── Snake activity graph - auto-generated by .github/workflows/snake.yml ── -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/pbathuri/pbathuri/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
@@ -219,16 +219,16 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 ### Reading list (what's on my desk right now)
 
 <table>
-<tr><td><b>HPC / microarchitecture</b></td><td>Jim Handy — <i>The Cache Memory Book</i> · Balasubramonian & Jouppi — <i>Multi-Core Cache Hierarchies</i> · AMD EPYC architecture manuals</td></tr>
-<tr><td><b>Quant finance</b></td><td>Velu, Hardy, Nehren — <i>Algorithmic Trading and Quantitative Strategies</i> (Chapman & Hall) · Wilmott — <i>Quantitative Finance</i> · Ruppert — <i>Statistics and Data Analysis for Financial Engineering</i></td></tr>
-<tr><td><b>ML & systems</b></td><td>Fregly — <i>AI Systems Performance Engineering</i> · ISLR · deep-dive papers on KV-cache, flash attention, speculative decoding</td></tr>
+<tr><td><b>HPC / microarchitecture</b></td><td>Jim Handy - <i>The Cache Memory Book</i> · Balasubramonian & Jouppi - <i>Multi-Core Cache Hierarchies</i> · AMD EPYC architecture manuals</td></tr>
+<tr><td><b>Quant finance</b></td><td>Velu, Hardy, Nehren - <i>Algorithmic Trading and Quantitative Strategies</i> (Chapman & Hall) · Wilmott - <i>Quantitative Finance</i> · Ruppert - <i>Statistics and Data Analysis for Financial Engineering</i></td></tr>
+<tr><td><b>ML & systems</b></td><td>Fregly - <i>AI Systems Performance Engineering</i> · ISLR · deep-dive papers on KV-cache, flash attention, speculative decoding</td></tr>
 </table>
 
 ---
 
 ### Philosophy
 
-> *Curiosity is the unit. Everything else — papers read, kernels tuned, repos shipped — is just accumulated interest on it.*
+> *Curiosity is the unit. Everything else - papers read, kernels tuned, repos shipped - is just accumulated interest on it.*
 
 I think the best researchers are the ones who can also build, and the best builders are the ones who read the papers. I try to be useful on both sides of that line.
 
