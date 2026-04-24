@@ -1,0 +1,23 @@
+README.md
+  020c45006148b834 229-241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "70ac36cefb3823895286e0db979fd3960203b3d2",
+  "prompts": {
+    "020c45006148b834": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8d1b00e4-af54-4d5c-92ca-4f2284b6d802",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "pbathuri",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 0,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
