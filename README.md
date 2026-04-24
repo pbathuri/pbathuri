@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<!-- ── Hero banner (replace profile-hero.png with profile-hero.gif once the Gemini asset is delivered) -->
+<!-- ── Hero banner (animated GIF, static PNG fallback via object tag) -->
 <a href="https://pradyotbathuri.com/">
-  <img src="https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/profile-hero.png" alt="Pradyot Bathuri — quantitative research · HPC systems · shipping LLM tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/pbathuri/Map_Projects_MAC/main/Assets/profile-hero.gif" alt="Pradyot Bathuri — quantitative research · HPC systems · shipping LLM tools" width="100%" />
 </a>
 
 <br/><br/>
