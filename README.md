@@ -15,7 +15,7 @@
 
 <!-- ── Typing headline ─────────────────────────────────────────────────── -->
 <a href="https://pradyotbathuri.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FFA657&center=true&vCenter=true&width=760&lines=Pradyot+Bathuri+%E2%80%94+Quantitative+Researcher+%2B+Builder;Cache+behaviour%2C+kernels%2C+and+foundation+models+for+finance;HPC+%E2%80%A2+Low-latency+systems+%E2%80%A2+Agentic+tooling;Indiana+University+%E2%80%A2+Luddy+School;Curiosity+is+the+unit.+Ships+%3E+drafts." alt="rotating headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FFA657&center=true&vCenter=true&width=760&lines=Pradyot+Bathuri+%E2%80%94+Quantitative+Researcher+%2B+Builder;Cache+behaviour%1C+kernels%2C+and+foundation+models+for+finance;HPC+%E2%80%A2+Low-latency+systems+%E2%80%A2+Agentic+tooling;Indiana+University+%E2%80%A2+Luddy+School;Curiosity+is+the+unit.+Ships+%3E+drafts." alt="rotating headline" />
 </a>
 
 <br/>
