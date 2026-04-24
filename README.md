@@ -226,6 +226,19 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 ---
 
+### Following / studied
+
+Repos I've cloned to dissect, not to fork. Honest credit goes to the upstream authors:
+
+- **HPC / quant** - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) · [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA) · [KxSystems/kdb-taq](https://github.com/KxSystems/kdb-taq)
+- **ML systems** - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) · [openai/parameter-golf](https://github.com/openai/parameter-golf) · [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub)
+- **Agents / personal tooling** - [AmitSubhash/autolog](https://github.com/AmitSubhash/autolog) · [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+- **Coursework** - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) · [Strang EE16A notebooks](https://github.com/sstd521/Introduction-to-Linear-Algebra-5th-Edition---EE16A) · [IBM Watson NLP template](https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai)
+
+Full list with annotations → [Following.md](https://github.com/pbathuri/Map_Projects_MAC/blob/main/Following.md)
+
+---
+
 ### Philosophy
 
 > *Curiosity is the unit. Everything else - papers read, kernels tuned, repos shipped - is just accumulated interest on it.*
