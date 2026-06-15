@@ -65,7 +65,7 @@ Transformer architectures on financial time series, compression-first training, 
 <td width="33%" valign="top">
 
 #### 🛠️ Agentic systems & tooling
-Codebase intelligence, structured retrieval, and the boring scaffolding that makes research repeatable - dataset ingestion, evaluation harnesses, reproducibility.
+Local-first cognitive graphs and a model-agnostic personalization layer that steers any agent (Claude, Cursor, ChatGPT) to a user's own work - hybrid retrieval, learned ranking, and the evaluation harnesses that keep it honest.
 
 </td>
 </tr>
@@ -115,6 +115,7 @@ timeline
                : Personal site rebuild (Next.js)
                : AI Ethics Coach - privacy-first ChatGPT companion
     2026 Q2 : finance-cache-hpc - EPYC + PAPI study (28× · 1,657× · 500×)
+            : cartograph - local-first cognitive-graph engine ships to PyPI (v1.0.0)
             : ResumeForge - local-first explainable resume AI
             : entrepreneur-persona - pitch coach for MIT/Harvard/Kelley comps
             : DeskFlow Native - cross-platform workflow manager
@@ -128,6 +129,7 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 
 ### 🔬 Currently working on
 
+- [`cartograph`](https://github.com/pbathuri/cartograph) - a local-first personal cognitive graph you point at your own files and plug into any AI agent via MCP · `pip install cartograph__v1`
 - [`finance-cache-hpc`](https://github.com/pbathuri/finance-cache-hpc) - L1 cache characterisation of four quant kernels on AMD EPYC using PAPI
 - [`Research_HPC_QFinance_Cache`](https://github.com/pbathuri/Research_HPC_QFinance_Cache) - the broader research thread this sits inside
 - [`QuantumMCL-Spring26`](https://github.com/pbathuri/QuantumMCL-Spring26) - *(private)* heuristic cache mechanisms for finance workflows
@@ -146,8 +148,10 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <tr><td><a href="https://github.com/pbathuri/Research_HPC_QFinance_Cache">Research_HPC_QFinance_Cache</a></td><td>Research notes & experiments on improving cache behaviour in finance workflows</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Quantitative-Modeling_Practice">Quantitative-Modeling_Practice</a></td><td>Wilmott-style quant modelling - binomial pricing, risk-neutral valuation</td></tr>
 
-<tr><td rowspan="4"><b>🧠 ML systems</b></td>
-<td><a href="https://github.com/pbathuri/ResumeForge">ResumeForge</a></td>
+<tr><td rowspan="5"><b>🧠 ML systems</b></td>
+<td><a href="https://github.com/pbathuri/cartograph">cartograph</a></td>
+<td>Local-first personal cognitive graph + model-agnostic personalization layer · hybrid retrieval · MCP · <code>pip install cartograph__v1</code></td></tr>
+<tr><td><a href="https://github.com/pbathuri/ResumeForge">ResumeForge</a></td>
 <td>Local-first explainable resume tailoring · LangGraph · LaTeX · Overleaf sync</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Claude_Hackathon">Claude_Hackathon</a></td><td>WHO-aligned telehealth intake with a self-evolving medical knowledge graph</td></tr>
 <tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice - Next.js + Streamlit</td></tr>
@@ -192,7 +196,7 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <!-- ── Stats triptych ───────────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pbathuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA657&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=pbathuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA657&icon_color=58A6FF&text_color=C9D1D9" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFA657&text_color=C9D1D9&langs_count=8" height="160" />
 
 <br/>
