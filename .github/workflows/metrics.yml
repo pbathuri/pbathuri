@@ -26,16 +26,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Indiana/Indianapolis
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, plugin_languages, plugin_habits
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, plugin_languages
           plugin_languages: yes
           plugin_languages_ignored: html, tex, less, dockerfile, makefile, shell
           plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: no    # indepth clones every repo and errors on the fallback GITHUB_TOKEN; set METRICS_TOKEN (a PAT) as a repo secret to re-enable
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          # plugin_habits needs a PAT; it renders an "Unexpected error" panel on the fallback GITHUB_TOKEN.
+          # Disabled to keep the metrics clean. Set a METRICS_TOKEN repo secret, then flip this back to `yes`
+          # (and re-add `plugin_habits` to config_order above) to restore the recent-coding-habits panel.
+          plugin_habits: no
 
       # ── Isometric calendar — the big colourful 3D contribution graph
       - name: Metrics — isometric calendar
