@@ -22,9 +22,9 @@
 
 <!-- ── Connect row ─────────────────────────────────────────────────────── -->
 <a href="https://pradyotbathuri.com/"><img src="https://img.shields.io/badge/Portfolio-pradyotbathuri.com-FFA657?style=for-the-badge&labelColor=0D1117&logo=firefox&logoColor=FFA657" /></a>
-<a href="mailto:taaffeite.aart@gmail.com"><img src="https://img.shields.io/badge/Email-contact-58A6FF?style=for-the-badge&labelColor=0D1117&logo=protonmail&logoColor=58A6FF" /></a>
+<a href="mailto:pbathuri@iu.edu"><img src="https://img.shields.io/badge/Email-contact-58A6FF?style=for-the-badge&labelColor=0D1117&logo=protonmail&logoColor=58A6FF" /></a>
 <a href="https://linkedin.com/in/pradyotbathuri"><img src="https://img.shields.io/badge/LinkedIn-profile-58A6FF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=58A6FF" /></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-profile-E6EDF3?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" /></a>
+<a href="https://pradyotbathuri.com/about"><img src="https://img.shields.io/badge/Research-about-E6EDF3?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" /></a>
 <a href="https://github.com/pbathuri?tab=repositories"><img src="https://img.shields.io/badge/repos-public-58A6FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=58A6FF" /></a>
 <a href="https://github.com/pbathuri"><img src="https://img.shields.io/github/followers/pbathuri?style=for-the-badge&labelColor=0D1117&color=8B949E&logo=github&logoColor=8B949E&label=followers" /></a>
 
@@ -38,11 +38,13 @@
 
 ### About
 
-I'm a **quantitative researcher and systems builder** working at the intersection of **high-performance computing, capital markets, and machine learning**. My focus is on what actually moves the needle at low-latency scale - cache behaviour of financial kernels, foundation models trained on market data, and the tooling layer around modern research workflows.
+I'm an **undergraduate researcher and systems builder** working at the intersection of **high-performance computing, quantitative finance, and machine learning**. My current work spans cache behaviour of financial kernels, Bayesian factor-model replication, noisy quantum simulations, and reproducible research tooling.
 
 I'm drawn to problems where the maths, the hardware, and the market all have a vote. I build a lot. I read a lot. I ship the things I read about.
 
-> Currently a researcher at **Indiana University - Luddy School of Informatics, Computing and Engineering**, focused on cache-aware numerical methods for quantitative finance.
+> Pursuing dual **BS degrees in Computer Engineering and Mathematics (Program II)** at **Indiana University**, expected **May 2028**. Undergraduate research with **Yuxi Hong** and, in optometry, **S. P. Srinivas**.
+
+As of **November 13, 2026**: completed the [IBM Generative AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/N2THROL6PALV) (July 20, 2026), **MITx 15.415.1x with honors**, and the **ARPM Bootcamp onsite certificate of completion**.
 
 ---
 
@@ -53,13 +55,13 @@ I'm drawn to problems where the maths, the hardware, and the market all have a v
 <td width="33%" valign="top">
 
 #### 📊 Quant finance & HPC
-Empirical cache characterisation of Monte Carlo, Cholesky, GARCH, and GEMM on EPYC / H100. PAPI counters, roofline, and what the hardware actually does under a pricing run.
+Empirical cache characterisation of Monte Carlo, Cholesky, GARCH, and GEMM on AMD EPYC. PAPI counters, Bayesian factor models, and reproducible numerical experiments.
 
 </td>
 <td width="33%" valign="top">
 
 #### 🧠 Foundation models for markets
-Transformer architectures on financial time series, compression-first training, and predictive pipelines that survive out-of-sample.
+Transformer architectures on financial time series, training-data effects, and predictive pipelines tested out-of-sample, including negative results rather than assumed trading value.
 
 </td>
 <td width="33%" valign="top">
@@ -76,12 +78,13 @@ Local-first cognitive graphs and a model-agnostic personalization layer that ste
 ### Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cuda,rust,ts,go,swift,r,bash&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,r,java,latex,cuda&perline=10" />
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nextjs,react,nodejs,docker,linux,git,vscode&perline=10" />
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Qiskit-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
 <img src="https://img.shields.io/badge/PAPI-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
 <img src="https://img.shields.io/badge/OpenMP-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
 <img src="https://img.shields.io/badge/MPI-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA657" />
@@ -98,9 +101,9 @@ Local-first cognitive graphs and a model-agnostic personalization layer that ste
 
 ```mermaid
 timeline
-    title From curiosity to shipping - 2019 → 2026
-    2019 : Linear Algebra foundations (MIT 18.06 / EE16A)
-         : First taste of numerical thinking
+    title From foundations to research - 2025 to 2026
+    Foundations : Linear algebra and numerical thinking
+                : Connecting mathematics to computing
     2025 Q4 : Paul Wilmott quant finance practice
             : Generative ML experiments (private)
             : First hackathon-grade shipped UI (skillconnect-jk)
@@ -114,26 +117,43 @@ timeline
                : Clap / OpsPilot - agentic workflow automation
                : Personal site rebuild (Next.js)
                : AI Ethics Coach - privacy-first ChatGPT companion
-    2026 Q2 : finance-cache-hpc - EPYC + PAPI study (28× · 1,657× · 500×)
+    2026 Q2 : finance-cache-hpc - EPYC + PAPI study
             : cartograph - local-first cognitive-graph engine ships to PyPI (v1.0.0)
             : ResumeForge - local-first explainable resume AI
             : entrepreneur-persona - pitch coach for MIT/Harvard/Kelley comps
             : DeskFlow Native - cross-platform workflow manager
             : Abstraction Dictionary - book project kickoff
             : Map_Projects_MAC - portfolio index goes live
+    2026 Jul : IBM Generative AI Engineering Professional Certificate completed July 20
+    2026 by Nov 13 : RFZ - continuous spike-and-slab replication; extension incomplete
+                   : qlpc - noisy Ising simulations and mitigation comparisons
+                   : DSC portfolio-risk-allocation - negative ridge validation result
+                   : Quantum portfolio paper accepted for QNLP-AI 2026 oral
+                   : EPYC L1 cache paper submitted to AIMLSystems 2026
+                   : MITx 15.415.1x honors and ARPM onsite program completed
+                   : Ongoing EOG blink segmentation and ocular numerical modeling
 ```
 
-The through-line: **learn by building, measure before tuning, ship the thing**. Every entry on that line is a public (or private-on-request) repo you can open today.
+The through-line: **learn by building, measure before tuning, ship the thing**. Public repositories document selected work; private projects are labeled below.
 
 ---
 
 ### 🔬 Currently working on
 
+- [`regime-factor-zoo`](https://github.com/pbathuri/regime-factor-zoo) - public replication of the continuous spike-and-slab estimator in Bryzgalova, Huang, and Julliard (2023), using 51 factors and 60 portfolios. BMA risk prices match to approximately `1e-14` maximum absolute difference under the authors' code and seed convention. The extension is incomplete; the matched-size permutation null has not been run, so robust factor-change claims are not established.
+- [Quantum numerical methods](https://github.com/pbathuri/qlpc/tree/main/noisy_qubit_numerics) - device-calibrated 4/6/8-qubit Ising simulations, comparing readout correction and zero-noise extrapolation at a fixed shot budget. Quadratic extrapolation loses to linear in 38 of 54 comparisons. [Study write-up](https://github.com/pbathuri/qlpc/blob/main/noisy_qubit_numerics/WRITEUP.pdf). Simulation only, not a hardware speedup; the original QLPC prototype returns CVaR classically.
+- [`portfolio-risk-allocation`](https://github.com/pbathuri/portfolio-risk-allocation) - public DSC study on 536 UCI ISE observations (2009-2011). Ridge validation zero-mean R² is **-0.079**, with 103 final observations reserved; this does not demonstrate a profitable strategy.
+- **Optometry research with S. P. Srinivas** - ongoing EOG blink segmentation, participant-separated evaluation, and ocular numerical modeling; research methods, not clinical claims.
 - [`cartograph`](https://github.com/pbathuri/cartograph) - a local-first personal cognitive graph you point at your own files; a model-agnostic personalization layer steers any AI agent (Claude · Cursor · ChatGPT) to *your* work via MCP · shipped **v1.0.0** · `pip install cartograph__v1`
 - [`finance-cache-hpc`](https://github.com/pbathuri/finance-cache-hpc) - L1 cache characterisation of four quant kernels on AMD EPYC using PAPI
 - [`Research_HPC_QFinance_Cache`](https://github.com/pbathuri/Research_HPC_QFinance_Cache) - the broader research thread this sits inside
-- [`QuantumMCL-Spring26`](https://github.com/pbathuri/QuantumMCL-Spring26) - *(private)* heuristic cache mechanisms for finance workflows
-- [`ResumeForge`](https://github.com/pbathuri/ResumeForge) - local-first, explainable resume tailoring with LaTeX + Overleaf sync
+- **QuantumMCL-Spring26** - *(private)* heuristic cache mechanisms for finance workflows
+- **ResumeForge** - *(private)* local-first, explainable resume tailoring with LaTeX + Overleaf sync
+
+**Papers**
+
+- *Training Data Set Effects in LLM-Assisted Quantum Portfolio Optimization* - **Accepted for an oral presentation, QNLP-AI 2026**.
+- *Empirical L1 Cache Characterization of Quantitative Finance Kernels on AMD EPYC Zen 2* - **Submitted to ACM AIMLSystems 2026**. [Code and study materials](https://github.com/pbathuri/finance-cache-hpc).
 
 ---
 
@@ -146,12 +166,12 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <td><a href="https://github.com/pbathuri/finance-cache-hpc">finance-cache-hpc</a></td>
 <td>Empirical L1 cache study of Cholesky · Monte Carlo · GARCH · GEMM on EPYC · PAPI counters</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Research_HPC_QFinance_Cache">Research_HPC_QFinance_Cache</a></td><td>Research notes & experiments on improving cache behaviour in finance workflows</td></tr>
-<tr><td><a href="https://github.com/pbathuri/Quantitative-Modeling_Practice">Quantitative-Modeling_Practice</a></td><td>Wilmott-style quant modelling - binomial pricing, risk-neutral valuation</td></tr>
+<tr><td><a href="https://github.com/pbathuri/regime-factor-zoo">regime-factor-zoo</a></td><td>Continuous spike-and-slab estimator replication on 51 factors / 60 portfolios; extension incomplete, matched-size permutation null unrun</td></tr>
 
 <tr><td rowspan="5"><b>🧠 ML systems</b></td>
 <td><a href="https://github.com/pbathuri/cartograph">cartograph</a></td>
 <td>Local-first cognitive graph + model-agnostic personalization that steers any agent to your work · hybrid retrieval · query-contextual ranking · MCP · <code>pip install cartograph__v1</code></td></tr>
-<tr><td><a href="https://github.com/pbathuri/ResumeForge">ResumeForge</a></td>
+<tr><td>ResumeForge 🔒 (private)</td>
 <td>Local-first explainable resume tailoring · LangGraph · LaTeX · Overleaf sync</td></tr>
 <tr><td><a href="https://github.com/pbathuri/Claude_Hackathon">Claude_Hackathon</a></td><td>WHO-aligned telehealth intake with a self-evolving medical knowledge graph</td></tr>
 <tr><td><a href="https://github.com/pbathuri/convo-ai">convo-ai</a></td><td>Duolingo-style conversation practice - Next.js + Streamlit</td></tr>
@@ -168,13 +188,13 @@ The through-line: **learn by building, measure before tuning, ship the thing**. 
 <tr><td><a href="https://github.com/pbathuri/Kory_The_Cat-NCAA">Kory_The_Cat-NCAA</a></td><td>NCAA bracket modelling · tiered ensemble + Hungarian assignment</td></tr>
 
 <tr><td rowspan="2"><b>🖥️ Systems & embedded</b></td>
-<td><a href="https://github.com/pbathuri/deskflow-native">deskflow-native</a> 🔒</td>
+<td>deskflow-native 🔒 (private)</td>
 <td>Cross-platform (macOS + Windows) workflow manager - named profiles, non-destructive shortcuts</td></tr>
 <tr><td><a href="https://github.com/pbathuri/CPS-Digital-Design">CPS-Digital-Design</a></td><td>IU E222 coursework - Raspberry Pi sensors, MQTT, SystemVerilog FPGA</td></tr>
 
 </table>
 
-<sub>🔒 = private, available on request · full index → <a href="https://github.com/pbathuri/Map_Projects_MAC">Map_Projects_MAC</a></sub>
+<sub>🔒 = private · full index → <a href="https://github.com/pbathuri/Map_Projects_MAC">Map_Projects_MAC</a></sub>
 
 ---
 
