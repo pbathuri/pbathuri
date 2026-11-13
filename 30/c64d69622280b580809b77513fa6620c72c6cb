@@ -1,0 +1,21 @@
+README.md
+  s_e73298d2497b07::t_44f8cfa4c5feae 25,27,41,45,58,64,81,87,120,128-134,137,143,145-146,150-155,169,174,191,197
+  s_e73298d2497b07::t_1ac487c111dff8 47,104-106,127,144,156
+  s_e73298d2497b07::t_24541fcb76fa4c 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30c64d69622280b580809b77513fa6620c72c6cb",
+  "prompts": {},
+  "sessions": {
+    "s_e73298d2497b07": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa019-76b8-7e92-9a12-e298f5eca07a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "pbathuri <taaffeite.aart@gmail.com>"
+    }
+  }
+}
